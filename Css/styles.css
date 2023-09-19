@@ -89,7 +89,28 @@ h2{
         width: 90%;
         height: 100%;
     }
+    img{
+        margin-bottom: 2rem;
+    }
+    h2{
+        margin-bottom: 3rem;
+    }
+    p{
+        margin-bottom: 1rem;
+    }
+    .learn-more{
+        margin-bottom: 3rem;
+    }
     .card1{
-        height: 100%;
+        margin-top: 5rem;
+        border-top-left-radius: 9px;
+        border-bottom-left-radius: 0px;
+        border-top-right-radius: 9px;
+    }
+    .card3{
+        border-bottom-left-radius: 9px;
+        border-bottom-right-radius: 9px;
+        border-top-left-radius: 0px;
+        margin-bottom: 5rem;
     }
 }
